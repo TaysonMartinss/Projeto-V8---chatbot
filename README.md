@@ -24,6 +24,7 @@ bash
 Copiar código
 python -m venv venv
 venv\Scripts\activate
+
 No macOS e Linux:
 
 bash
@@ -38,6 +39,7 @@ Copiar código
 pip install -r requirements.txt
 
 4. Configuração da Chave de API
+   
 Para que o projeto funcione corretamente, você precisará configurar uma chave de API. Siga os passos abaixo para adicionar sua chave:
 
 Crie um arquivo chamado .env na raiz do projeto se ele não existir.
